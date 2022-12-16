@@ -1,0 +1,21 @@
+#body
+{
+	background-image: "html_bg.webp";
+}
+
+.login_div1 , .login_div2
+{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+}
+
+
+#p1 , #p2
+{
+	display: inline-block;
+	margin-left: 7px;
+}
+
+
